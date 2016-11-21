@@ -1,0 +1,17 @@
+{
+  "name": "pets",
+  "version": "0.1.0",
+  "description": "An example cli built with yargs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eddy Hernandez <edward.d.hernandez@gmail.com> (http://eddywashere.com)",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^6.4.0"
+  },
+  "bin": {
+    "pets": "bin/index.js"
+  }
+}
